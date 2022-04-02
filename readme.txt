@@ -1,5 +1,7 @@
 How to use this node js app?
 
+npm i 
+
 To view the full list,
 node app.js list
 
