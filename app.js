@@ -11,7 +11,7 @@ var body = yargs.argv.body;
 var command = yargs.argv._[0];
 
 if (command === "add") {
-  console.log("adding note");
+  console.log("adding e");
   notes.addingNote(title, body);
 } else if (command === "remove") {
   console.log("removing note");
